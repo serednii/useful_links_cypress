@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx cypress open",
-    "ci": "npx cypress run --record false &"
+    "ci": "npx cypress run --record false &",
+    "newCi": "npx cypress run --headless"
   },
   "author": "",
   "license": "ISC",

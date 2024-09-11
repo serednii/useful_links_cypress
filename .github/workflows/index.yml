@@ -51,4 +51,4 @@ jobs:
         run: npm ci
 
       - name: Cypress Tests
-        run: npm run ci
+        run: npm run newCi
